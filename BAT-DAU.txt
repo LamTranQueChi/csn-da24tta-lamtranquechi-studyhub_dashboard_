@@ -1,0 +1,8 @@
+STUDYHUB DASHBOARD
+HƯỚNG DẪN TẢI VÀ CÀI ĐẶT DỰ ÁN
+
+Hướng dẫn cài đặt và chạy dự án đã được cập nhật tại:
+setup/huong-dan-cai-dat.md
+
+Vui lòng đọc hướng dẫn này trước khi chạy chương trình.
+Không chia sẻ file .env hoặc thông tin đăng nhập cá nhân lên GitHub.

@@ -1,0 +1,13 @@
+backend/node_modules/
+backend/.env
+backend/data/*.sqlite
+backend/data/*.sqlite-shm
+backend/data/*.sqlite-wal
+.DS_Store
+
+# Local SQLite databases and backups (keep the SQL seed file tracked)
+backend/data/*.db
+backend/data/*.db-*
+backend/data/*.sqlite
+backend/data/*.sqlite-*
+backend/data/*backup*.sqlite
